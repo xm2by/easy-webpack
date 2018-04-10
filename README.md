@@ -8,12 +8,15 @@ webpack构建的一个前端学习环境，具有热更新功能，修改html、
 # 1. clone this repo
 git clone https://github.com/xm2by/easy-webpack.git
 
-# 2. install dependencies
+# 2. enter the easy-webpack file
+cd easy-webpack
+
+# 3. install dependencies
 npm install
 
-# 3. dev for development
+# 4. dev for development
 npm run dev
 
-# 4. build for production
+# 5. build for production
 npm run build
 ```
